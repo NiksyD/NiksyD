@@ -46,10 +46,10 @@
   </p>
 </div>
 
-## 🚀 About Me
+##  About Me
 I'm a developer building scalable, AI-integrated systems that solve real-world problems. Whether I'm optimizing logistics or building e-sports platforms, I focus on performance, reliability, and great user experience.
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### [Paalayon](https://paalayon.vercel.app/)
 > Send items the smarter way — with people already going there.
