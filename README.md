@@ -73,13 +73,5 @@ I'm a developer building scalable, AI-integrated systems that solve real-world p
 ---
 
 <div align="center">
-  <h3>⚡ My GitHub Stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiksyD&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&text_color=71717a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksyD&layout=compact&theme=transparent&hide_border=true&title_color=f97316&text_color=71717a" />
-</div>
-
----
-
-<div align="center">
-  <p>© 2026 Niko Andrei Pepito. Built with passion and code.</p>
+  <p>© 2026 Niko Andrei Pepito.</p>
 </div>
